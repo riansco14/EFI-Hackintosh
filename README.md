@@ -1,6 +1,7 @@
 # EFI-Hackintosh
 
-Hackintosh: Ventura
+Hackintosh: Sonoma
+Placa Wifi Funcionando
 
 
 ASUS B660M D4
